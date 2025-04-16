@@ -102,3 +102,6 @@ License
 
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
+References
+https://dkharazi.github.io/notes/de/etl/mapreduce
+
