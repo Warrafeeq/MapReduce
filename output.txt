@@ -1,0 +1,8 @@
+code	47
+example	58
+goodbye	46
+hello	54
+input	42
+mapreduce	48
+python	75
+world	48
